@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DLT_Blogsite/static/css/main.6c717c22.css",
+    "main.js": "/DLT_Blogsite/static/js/main.5b13ea2d.js",
+    "index.html": "/DLT_Blogsite/index.html",
+    "main.6c717c22.css.map": "/DLT_Blogsite/static/css/main.6c717c22.css.map",
+    "main.5b13ea2d.js.map": "/DLT_Blogsite/static/js/main.5b13ea2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c717c22.css",
+    "static/js/main.5b13ea2d.js"
+  ]
+}
